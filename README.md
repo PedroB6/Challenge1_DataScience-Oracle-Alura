@@ -37,13 +37,20 @@ El propósito de este proyecto es ayudar al señor Juan a decidir cual de sus 4 
    
    2.3. Calificación promedio de la tienda: Cálculo de la saisfacción de los clientes con los productos vendidos.
 
-   2.4. Productos más y menos vendidos: Cálculo de los 5 productos más y menos vendidos
+   2.4. Productos más y menos vendidos: Cálculo de los 5 productos más y menos vendidos.
 
-   2.5. Envío promedio por tienda: Cálculo del costo de envío promedio
+   2.5. Envío promedio por tienda: Cálculo del costo de envío promedio.
+
+3. Se generaron algunos gráficos de interés.
 
 # 4. Ejemplos de gráficos e insights obtenidos
-![Ingresos por tienda](./assets/Ingresos_por_tienda.PNG)
-![Calificaciones por tienda](./assets/Calificaciones_por_tienda.PNG)
+
+La cantidad de ingresos por tienda alcanza su pico en la tienda 1 y disminuye hasta la 4
+![Ingresos por tienda](./img/Ingresos_por_tienda.png)
+
+La tienda 4 es la segunda con menor calficación entre las 4: 
+![Calificaciones por tienda](./img/Calificaciones_por_tienda.png)
+
 
 # 5. Instrucciones para ejecutar el notebook
 
